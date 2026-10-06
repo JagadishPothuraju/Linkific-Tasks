@@ -1,0 +1,2 @@
+Python File Handling Practice
+This file was created using Python.

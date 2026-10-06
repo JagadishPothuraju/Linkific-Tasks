@@ -1,0 +1,2 @@
+101|Jagadish|21|B.Tech AI & ML|85
+102|Rahul|21|B.Tech CSE|78
