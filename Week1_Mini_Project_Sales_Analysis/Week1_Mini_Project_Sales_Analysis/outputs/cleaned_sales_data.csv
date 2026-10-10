@@ -1,0 +1,49 @@
+Date,Region,Category,Product,Units_Sold,Unit_Price,Unit_Cost,Revenue,Cost,Profit
+2025-01-05,North,Electronics,Laptop,2.0,750.0,120.0,1500.0,240.0,1260.0
+2025-01-08,South,Furniture,Chair,8.0,55.0,12.0,440.0,96.0,344.0
+2025-01-12,East,Office Supplies,Notebook,40.0,3.0,0.8,120.0,32.0,88.0
+2025-01-19,West,Electronics,Headphones,12.0,35.0,8.0,420.0,96.0,324.0
+2025-02-03,North,Furniture,Desk,3.0,180.0,35.0,540.0,105.0,435.0
+2025-02-11,Unknown,Electronics,Laptop,1.0,750.0,120.0,750.0,120.0,630.0
+2025-02-17,East,Office Supplies,Pen,100.0,1.5,0.3,150.0,30.0,120.0
+2025-02-24,West,Furniture,Chair,6.0,55.0,12.0,330.0,72.0,258.0
+2025-03-02,North,Electronics,Monitor,5.0,210.0,40.0,1050.0,200.0,850.0
+2025-03-10,South,Office Supplies,Notebook,60.0,3.0,0.8,180.0,48.0,132.0
+2025-03-18,East,Furniture,Desk,2.0,180.0,35.0,360.0,70.0,290.0
+2025-03-25,West,Electronics,Headphones,15.0,35.0,8.0,525.0,120.0,405.0
+2025-04-04,North,Office Supplies,Pen,120.0,1.5,0.3,180.0,36.0,144.0
+2025-04-09,South,Furniture,Chair,10.0,55.0,12.0,550.0,120.0,430.0
+2025-04-16,East,Electronics,Laptop,2.0,750.0,120.0,1500.0,240.0,1260.0
+2025-04-27,West,Office Supplies,Notebook,75.0,3.0,0.8,225.0,60.0,165.0
+2025-05-06,North,Furniture,Desk,4.0,180.0,35.0,720.0,140.0,580.0
+2025-05-14,South,Electronics,Monitor,11.0,210.0,40.0,2310.0,440.0,1870.0
+2025-05-21,East,Office Supplies,Pen,150.0,1.5,0.3,225.0,45.0,180.0
+2025-05-29,West,Furniture,Chair,9.0,55.0,12.0,495.0,108.0,387.0
+2025-06-03,North,Electronics,Laptop,3.0,750.0,120.0,2250.0,360.0,1890.0
+2025-06-12,South,Office Supplies,Notebook,80.0,3.0,0.8,240.0,64.0,176.0
+2025-06-20,East,Furniture,Desk,3.0,180.0,35.0,540.0,105.0,435.0
+2025-06-26,West,Electronics,Headphones,18.0,35.0,8.0,630.0,144.0,486.0
+2025-07-05,North,Office Supplies,Pen,130.0,1.5,0.3,195.0,39.0,156.0
+2025-07-13,South,Furniture,Chair,11.0,55.0,12.0,605.0,132.0,473.0
+2025-07-19,East,Electronics,Monitor,8.0,210.0,40.0,1680.0,320.0,1360.0
+2025-07-27,West,Office Supplies,Notebook,95.0,3.0,0.8,285.0,76.0,209.0
+2025-08-02,North,Furniture,Desk,5.0,180.0,35.0,900.0,175.0,725.0
+2025-08-09,South,Electronics,Laptop,2.0,750.0,120.0,1500.0,240.0,1260.0
+2025-08-16,East,Office Supplies,Pen,175.0,1.5,0.3,262.5,52.5,210.0
+2025-08-23,West,Furniture,Chair,12.0,55.0,12.0,660.0,144.0,516.0
+2025-09-04,North,Electronics,Monitor,9.0,210.0,40.0,1890.0,360.0,1530.0
+2025-09-11,South,Office Supplies,Notebook,100.0,3.0,0.8,300.0,80.0,220.0
+2025-09-19,East,Furniture,Desk,4.0,180.0,35.0,720.0,140.0,580.0
+2025-09-28,West,Electronics,Headphones,20.0,35.0,8.0,700.0,160.0,540.0
+2025-10-03,North,Office Supplies,Pen,160.0,1.5,0.3,240.0,48.0,192.0
+2025-10-12,South,Furniture,Chair,13.0,55.0,12.0,715.0,156.0,559.0
+2025-10-21,East,Electronics,Laptop,3.0,750.0,120.0,2250.0,360.0,1890.0
+2025-10-29,West,Office Supplies,Notebook,115.0,3.0,0.8,345.0,92.0,253.0
+2025-11-05,North,Furniture,Desk,6.0,180.0,35.0,1080.0,210.0,870.0
+2025-11-13,South,Electronics,Monitor,10.0,210.0,40.0,2100.0,400.0,1700.0
+2025-11-20,East,Office Supplies,Pen,190.0,1.5,0.3,285.0,57.0,228.0
+2025-11-27,West,Furniture,Chair,14.0,55.0,12.0,770.0,168.0,602.0
+2025-12-04,North,Electronics,Laptop,4.0,750.0,120.0,3000.0,480.0,2520.0
+2025-12-12,South,Office Supplies,Notebook,120.0,3.0,0.8,360.0,96.0,264.0
+2025-12-20,East,Furniture,Desk,5.0,180.0,35.0,900.0,175.0,725.0
+2025-12-28,West,Electronics,Headphones,24.0,35.0,8.0,840.0,192.0,648.0
