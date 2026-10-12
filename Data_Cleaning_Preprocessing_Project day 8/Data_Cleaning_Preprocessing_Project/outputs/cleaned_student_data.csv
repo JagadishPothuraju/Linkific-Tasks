@@ -1,0 +1,9 @@
+student_name,roll_number,department,age,marks,attendance,email
+Asha Rao,23AI001,AI & ML,20.0,88.0,92.0,asha@example.com
+Rahul Kumar,23AI002,CSE,21.0,76.0,85.0,rahul@example.com
+Meena Das,23AI003,ECE,20.5,91.0,90.0,meena@example.com
+Vikram Singh,23AI004,CSE,22.0,84.0,78.0,vikram@example.com
+Unknown,23AI005,AI & ML,19.0,67.0,88.0,student5@example.com
+Sara Khan,23AI006,CSE,20.5,84.0,94.0,not provided
+John Paul,23AI007,ECE,21.0,73.0,90.0,john@example.com
+Priya Nair,23AI008,AI & ML,20.0,95.0,96.0,priya@example.com
