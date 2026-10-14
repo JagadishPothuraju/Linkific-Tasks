@@ -1,0 +1,8 @@
+Train samples: 16
+Test samples: 4
+Slope: 6.3683
+Intercept: 29.2624
+MAE: 0.6498
+MSE: 0.4487
+RMSE: 0.6699
+R2: 0.9993
