@@ -1,0 +1,7 @@
+Dataset: Breast Cancer Wisconsin educational dataset
+Records: 569
+Features: 30
+Train/test split: 80/20, stratified, random_state=42
+Logistic Regression accuracy: 98.25%
+Decision Tree accuracy: 93.86%
+Observation: Logistic Regression had the higher accuracy on this split. This is educational only, not a diagnostic tool.
