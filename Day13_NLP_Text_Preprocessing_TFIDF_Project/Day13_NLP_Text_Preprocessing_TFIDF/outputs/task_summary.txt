@@ -1,0 +1,4 @@
+Day 13: NLP Text Preprocessing and TF-IDF
+Steps: lowercasing, tokenization, stopword removal, TF-IDF vectorization.
+Dataset: 16 practice comments with positive/negative/neutral labels.
+Outputs: preprocessed_text_dataset.csv, tfidf_matrix.csv, top_tfidf_terms.png.

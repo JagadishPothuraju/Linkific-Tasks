@@ -1,0 +1,17 @@
+text,sentiment,lowercase_text,tokens,tokens_no_stopwords
+"I love this product, it works really well!",positive,"i love this product, it works really well!","['i', 'love', 'this', 'product', 'it', 'works', 'really', 'well']",love product works really
+The service was excellent and the staff were helpful.,positive,the service was excellent and the staff were helpful.,"['the', 'service', 'was', 'excellent', 'and', 'the', 'staff', 'were', 'helpful']",service excellent staff helpful
+Amazing quality and fast delivery.,positive,amazing quality and fast delivery.,"['amazing', 'quality', 'and', 'fast', 'delivery']",amazing quality fast delivery
+"This is a great experience, I am very happy.",positive,"this is a great experience, i am very happy.","['this', 'is', 'a', 'great', 'experience', 'i', 'am', 'very', 'happy']",great experience happy
+The app is easy to use and useful.,positive,the app is easy to use and useful.,"['the', 'app', 'is', 'easy', 'to', 'use', 'and', 'useful']",app easy use useful
+I am satisfied with the results.,positive,i am satisfied with the results.,"['i', 'am', 'satisfied', 'with', 'the', 'results']",satisfied results
+The product is terrible and stopped working.,negative,the product is terrible and stopped working.,"['the', 'product', 'is', 'terrible', 'and', 'stopped', 'working']",product terrible stopped working
+Very poor service and rude staff.,negative,very poor service and rude staff.,"['very', 'poor', 'service', 'and', 'rude', 'staff']",poor service rude staff
+The delivery was late and the package was damaged.,negative,the delivery was late and the package was damaged.,"['the', 'delivery', 'was', 'late', 'and', 'the', 'package', 'was', 'damaged']",delivery late package damaged
+I dislike this app because it is slow.,negative,i dislike this app because it is slow.,"['i', 'dislike', 'this', 'app', 'because', 'it', 'is', 'slow']",dislike app slow
+"Bad quality, not worth the money.",negative,"bad quality, not worth the money.","['bad', 'quality', 'not', 'worth', 'the', 'money']",bad quality worth money
+I am unhappy with this disappointing experience.,negative,i am unhappy with this disappointing experience.,"['i', 'am', 'unhappy', 'with', 'this', 'disappointing', 'experience']",unhappy disappointing experience
+The product is okay but could be better.,neutral,the product is okay but could be better.,"['the', 'product', 'is', 'okay', 'but', 'could', 'be', 'better']",product okay better
+"Delivery arrived today, nothing special.",neutral,"delivery arrived today, nothing special.","['delivery', 'arrived', 'today', 'nothing', 'special']",delivery arrived today special
+The app has basic features and a simple design.,neutral,the app has basic features and a simple design.,"['the', 'app', 'has', 'basic', 'features', 'and', 'a', 'simple', 'design']",app basic features simple design
+"It works as described, with average performance.",neutral,"it works as described, with average performance.","['it', 'works', 'as', 'described', 'with', 'average', 'performance']",works described average performance
