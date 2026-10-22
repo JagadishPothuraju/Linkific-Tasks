@@ -1,0 +1,1 @@
+sentence-transformers\nchromadb\nlangchain-text-splitters\npandas\n# Optional: langchain-openai\n

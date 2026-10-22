@@ -1,0 +1,394 @@
+chunk_size_chars,question,number_of_chunks,top1_cosine_similarity,retrieved_context,baseline_answer,relevance_1_to_5,completeness_1_to_5,groundedness_1_to_5
+200,How many days in advance should planned leave be requested?,6,0.7566,". Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance\n---\n. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk\n---\nACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday",". Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance\n---\n. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk\n---\nACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday",,,
+200,How do employees report laptop or network problems?,6,0.4438,". Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk\n---\n. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase\n---\n. Never share passwords or access tokens. Report suspicious emails to the security team.",". Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk\n---\n. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase\n---\n. Never share passwords or access tokens. Report suspicious emails to the security team.",,,
+200,What is the deadline for submitting expense claims?,6,0.4252,". Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase\n---\n. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance\n---\n. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens",". Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase\n---\n. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance\n---\n. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens",,,
+200,What should employees do with suspicious emails?,6,0.5241,". Never share passwords or access tokens. Report suspicious emails to the security team.\n---\n. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk\n---\n. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase",". Never share passwords or access tokens. Report suspicious emails to the security team.\n---\n. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk\n---\n. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase",,,
+200,What are the normal working hours?,6,0.6019,"ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday\n---\n. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance\n---\n. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk","ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday\n---\n. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance\n---\n. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk",,,
+500,How many days in advance should planned leave be requested?,2,0.4687,"ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message\n---\n. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.","ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message\n---\n. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.",,,
+500,How do employees report laptop or network problems?,2,0.2508,". Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.\n---\nACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message",". Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.\n---\nACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message",,,
+500,What is the deadline for submitting expense claims?,2,0.4777,". Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.\n---\nACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message",". Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.\n---\nACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message",,,
+500,What should employees do with suspicious emails?,2,0.2601,". Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.\n---\nACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message",". Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.\n---\nACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message",,,
+500,What are the normal working hours?,2,0.4457,"ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message\n---\n. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.","ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message\n---\n. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.",,,
+1000,How many days in advance should planned leave be requested?,1,0.4932,"ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.","ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.",,,
+1000,How do employees report laptop or network problems?,1,0.3377,"ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.","ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.",,,
+1000,What is the deadline for submitting expense claims?,1,0.3473,"ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.","ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.",,,
+1000,What should employees do with suspicious emails?,1,0.2496,"ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.","ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.",,,
+1000,What are the normal working hours?,1,0.3522,"ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.","ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.",,,

@@ -1,0 +1,16 @@
+chunk_size_chars,question,relevance_1_to_5,completeness_1_to_5,groundedness_1_to_5,notes
+200,How many days in advance should planned leave be requested?,,,,Fill after reviewing actual output
+200,How do employees report laptop or network problems?,,,,Fill after reviewing actual output
+200,What is the deadline for submitting expense claims?,,,,Fill after reviewing actual output
+200,What should employees do with suspicious emails?,,,,Fill after reviewing actual output
+200,What are the normal working hours?,,,,Fill after reviewing actual output
+500,How many days in advance should planned leave be requested?,,,,Fill after reviewing actual output
+500,How do employees report laptop or network problems?,,,,Fill after reviewing actual output
+500,What is the deadline for submitting expense claims?,,,,Fill after reviewing actual output
+500,What should employees do with suspicious emails?,,,,Fill after reviewing actual output
+500,What are the normal working hours?,,,,Fill after reviewing actual output
+1000,How many days in advance should planned leave be requested?,,,,Fill after reviewing actual output
+1000,How do employees report laptop or network problems?,,,,Fill after reviewing actual output
+1000,What is the deadline for submitting expense claims?,,,,Fill after reviewing actual output
+1000,What should employees do with suspicious emails?,,,,Fill after reviewing actual output
+1000,What are the normal working hours?,,,,Fill after reviewing actual output

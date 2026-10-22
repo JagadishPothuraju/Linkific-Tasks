@@ -1,0 +1,16 @@
+ACME COMPANY HANDBOOK
+
+Working Hours
+Employees normally work from 9:00 AM to 5:30 PM, Monday through Friday. Flexible schedules must be approved by the employee's manager.
+
+Leave Policy
+Submit planned leave requests at least five working days in advance. Emergency leave should be reported to the manager as soon as possible.
+
+IT Support
+For laptop, account, or network problems, create a ticket through the internal IT help desk. Include a short description, device name, and error message. Never share passwords in support tickets.
+
+Expense Reimbursement
+Submit expense claims with receipts within 30 days of purchase. Manager approval is required before Finance processes reimbursement.
+
+Information Security
+Use multi-factor authentication where available. Never share passwords or access tokens. Report suspicious emails to the security team.
