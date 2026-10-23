@@ -1,0 +1,1 @@
+fastapi\nuvicorn[standard]\npython-multipart\npypdf\nsentence-transformers\nchromadb\nlangchain-text-splitters\nhttpx\npytest\n
