@@ -1,0 +1,10 @@
+flowchart TD
+ A[User Question / State] --> B[Retriever]
+ B --> C{Relevant documents found?}
+ C -->|Yes| D[LLM / Answer Generation]
+ C -->|No and attempts < 2| E[Retry / Refine Query]
+ E --> B
+ C -->|No after retry| F[Fallback: Explain No Results]
+ D --> G[Update Memory]
+ F --> G
+ G --> H[Return Answer / END]
