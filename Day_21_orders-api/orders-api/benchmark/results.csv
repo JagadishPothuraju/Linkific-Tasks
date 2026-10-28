@@ -1,0 +1,5 @@
+Endpoint,Concurrency,Sync avg ms,Async avg ms,Sync p95,Async p95,Sync RPS,Async RPS,Avg latency improvement
+GET /users/1,10,547,551,560,553,17.7,18.0,-1%
+GET /users/1,50,910,916,1153,1120,38.6,42.2,-1%
+GET /users/1,100,1641,1732,2378,2508,38.8,37.0,-6%
+POST /orders,50,3780,1617,5477,2362,8.9,19.7,57%
