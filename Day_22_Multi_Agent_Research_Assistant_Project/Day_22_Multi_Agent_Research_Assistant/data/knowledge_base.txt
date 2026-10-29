@@ -1,0 +1,10 @@
+Multi-agent research systems divide complex tasks into specialized responsibilities. A coordinator plans the workflow, assigns work, checks completion, and manages hand-offs.
+A research agent gathers relevant information from approved sources and records source details. Local knowledge bases are useful for demonstrations but may be incomplete or outdated.
+An analyzer organizes information, identifies themes, compares evidence, and highlights gaps. Analysis should distinguish facts from assumptions.
+A critic reviews clarity, evidence coverage, unsupported claims, contradictions, missing context, and safety concerns. Criticism should be constructive and actionable.
+A writer turns reviewed notes into a clear report with summary, findings, recommendations, limitations, and conclusion. The writer should not invent facts or citations.
+Shared state stores the topic, plan, research notes, analysis, critique, draft, status, and communication log. Agents read and update relevant fields.
+Communication can follow a sequence: Coordinator to Research Agent, Research Agent to Analyzer, Analyzer to Critic and Writer, Critic to Writer, Writer to Coordinator.
+Workflow planning defines task order, dependencies, outputs, and validation rules. Incomplete stages should be reported rather than silently treated as successful.
+Useful quality checks include source traceability, duplicate removal, date checking, privacy review, fact verification, and a human approval gate.
+A production system may add external search tools, a database, access control, durable shared state, retry policies, monitoring, and a real language model.

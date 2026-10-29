@@ -1,0 +1,7 @@
+Agent,Role,Inputs,Outputs,Dependencies,Communication Flow
+Coordinator,Plan and orchestrate,Topic and workflow rules,Plan status and message log,None initially,Starts Research Agent and receives completion messages
+Research Agent,Collect relevant information,Topic and local knowledge base,Research notes,Coordinator plan,Sends notes to Analyzer and completion to Coordinator
+Analyzer,Identify themes and gaps,Research notes,Themes evidence gaps recommendations,Research Agent,Sends analysis to Critic and insights to Writer
+Critic,Review quality and limitations,Research notes and analysis,Issues checks review decision,Research Agent and Analyzer,Sends feedback to Writer and status to Coordinator
+Writer,Create clear report,Research notes analysis critique,Markdown report draft,Analyzer and Critic feedback,Sends draft to Coordinator for validation
+Coordinator,Validate and publish,All agent outputs,Final status and saved artifacts,All prior stages,Returns final report and workflow log to user
