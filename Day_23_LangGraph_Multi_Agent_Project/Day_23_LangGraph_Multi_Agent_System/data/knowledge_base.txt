@@ -1,0 +1,9 @@
+Multi-agent systems divide complex work into specialized responsibilities and coordinate through explicit hand-offs.
+A coordinator receives a request, creates a plan, starts agents, validates the result, and returns the final response.
+A research agent retrieves relevant information from approved knowledge sources and passes notes to the next agent.
+A writer transforms research notes into a clear response and must not invent facts or citations.
+Shared state stores the user request, plan, research notes, draft, final answer, errors, status, and communication log.
+LangGraph StateGraph models workflows with nodes, edges, shared state, and conditional routing.
+Error handling should capture empty input, missing files, missing research notes, and agent failures.
+Communication logs record timestamps, sender, receiver, and message text for traceability.
+Production research assistants should use trusted current sources, preserve citations, protect private information, and include human review.
