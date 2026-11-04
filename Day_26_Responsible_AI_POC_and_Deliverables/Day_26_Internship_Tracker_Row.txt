@@ -1,0 +1,1 @@
+04-Nov-2026 | 26 | Responsible AI | Responsible AI Case Study and Proof of Concept | Researched Amazon experimental hiring-tool gender-bias incident; documented impact and prevention recommendations; created synthetic fairness-audit POC and company Responsible AI guidelines covering fairness, privacy, transparency, hallucination and human oversight | N/A | Completed | 4 H
