@@ -1,0 +1,8 @@
+Junior AI and Data Developer
+
+Required skills:
+Python, SQL, machine learning, pandas, NumPy, Git, Docker and communication.
+
+Responsibilities:
+Prepare data, build simple machine learning workflows, document results,
+collaborate with developers and explain technical findings.

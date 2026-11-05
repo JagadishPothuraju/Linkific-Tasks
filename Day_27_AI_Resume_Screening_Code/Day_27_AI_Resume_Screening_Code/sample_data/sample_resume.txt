@@ -1,0 +1,15 @@
+Alex Candidate
+Junior Python Developer
+
+Summary:
+Entry-level developer interested in software engineering and data analysis.
+
+Skills:
+Python, SQL, pandas, NumPy, Git, HTML, CSS, communication.
+
+Project:
+Built a student performance analysis project using Python and pandas.
+Created charts and cleaned data for a small academic dataset.
+
+Education:
+Bachelor's degree in Computer Science.
