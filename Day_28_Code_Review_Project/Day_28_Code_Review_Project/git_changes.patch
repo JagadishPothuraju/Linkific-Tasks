@@ -1,0 +1,5 @@
+Commit-style change summary:
+- src/resume_analyzer.py: modular extraction, skill detection, similarity and analysis functions; explicit input validation.
+- app.py: use modular service, show understandable errors and human-review reminder.
+- tests/test_resume_analyzer.py: add edge-case tests.
+- docs/CODE_REVIEW_REPORT.md: record review findings and improvements.

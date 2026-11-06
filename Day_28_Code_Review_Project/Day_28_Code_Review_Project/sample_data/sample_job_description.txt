@@ -1,0 +1,1 @@
+Junior AI Developer. Required: Python, SQL, machine learning, pandas, NumPy, Git, Docker and communication.\n

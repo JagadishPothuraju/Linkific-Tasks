@@ -1,0 +1,14 @@
+Suggested commit message: Improve resume analysis validation and code quality
+
+Changes:
+- Refactor analysis into documented reusable functions.
+- Validate file extension, empty uploads and 5 MB maximum size.
+- Improve PDF/DOCX parsing error messages.
+- Validate empty resume and job description.
+- Improve Streamlit error handling and user guidance.
+- Add pytest coverage for edge cases.
+
+Create a real local commit:
+git init
+git add .
+git commit -m "Improve resume analysis validation and code quality"
