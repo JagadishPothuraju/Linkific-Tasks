@@ -1,0 +1,10 @@
+Architecture explanation:
+1. Streamlit is the presentation layer used by the user.
+2. Upload validation checks the extension and file size.
+3. The extraction layer reads PDF, DOCX or TXT content.
+4. The JD input is validated separately.
+5. Skill identification searches for configured skill terms in both texts.
+6. TF-IDF converts the two texts into feature vectors.
+7. Cosine similarity calculates text similarity.
+8. The dashboard presents matched skills, missing skills and the similarity score.
+9. A human reviewer interprets the evidence; the score must not make an automatic hiring decision.

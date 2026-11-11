@@ -1,0 +1,16 @@
+flowchart TD
+    A[User] --> B[Streamlit Interface]
+    B --> C[Upload Validation]
+    C --> D[Resume Text Extraction]
+    E[Job Description] --> F[Input Validation]
+    D --> G[Resume Text]
+    F --> H[JD Text]
+    G --> I[Skill Identification]
+    H --> I
+    G --> J[TF-IDF Vectorization]
+    H --> J
+    J --> K[Cosine Similarity]
+    I --> L[Matched and Missing Skills]
+    K --> M[Results Dashboard]
+    L --> M
+    M --> N[Human Review]

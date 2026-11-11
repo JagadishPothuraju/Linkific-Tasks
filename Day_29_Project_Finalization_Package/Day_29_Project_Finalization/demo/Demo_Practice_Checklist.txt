@@ -1,0 +1,39 @@
+DAY 29 – LIVE DEMO PRACTICE CHECKLIST
+Project: AI Resume Screening System
+
+BEFORE THE DEMO
+[ ] Confirm Python is available.
+[ ] Open the correct project folder.
+[ ] Install dependencies using: python -m pip install -r requirements.txt
+[ ] Start app using: python -m streamlit run app.py
+[ ] Open the local URL printed by Streamlit.
+[ ] Keep a sample resume ready in PDF, DOCX or TXT format.
+[ ] Keep the Junior AI/ML Engineer JD ready.
+[ ] Check that no private or sensitive resume data is exposed.
+[ ] Prepare slides and presentation notes.
+[ ] Test the projector, browser and internet/power arrangements if applicable.
+
+DURING THE DEMO
+[ ] Introduce the problem and project objective.
+[ ] Explain the architecture.
+[ ] Upload a sample resume.
+[ ] Paste the job description.
+[ ] Run the analysis.
+[ ] Explain matched skills.
+[ ] Explain missing skills.
+[ ] Explain TF-IDF and cosine similarity in simple words.
+[ ] State clearly that similarity is not a hiring decision.
+[ ] Show validation/error handling if practical.
+[ ] Explain tests and future improvements.
+
+AFTER THE DEMO
+[ ] Answer mentor questions clearly.
+[ ] Record feedback and improvement points.
+[ ] Save the final slides, README and report.
+[ ] Do not claim tests passed unless you ran them successfully.
+
+TEST COMMAND
+python -m pytest -v
+
+APPLICATION COMMAND
+python -m streamlit run app.py
